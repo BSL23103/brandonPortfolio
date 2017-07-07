@@ -1,0 +1,6 @@
+.jumbotron{
+	background:url("images/weddingBanner.jpg");
+	background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+}
